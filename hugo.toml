@@ -1,0 +1,6 @@
+baseURL = "https://example.org"
+languageCode = 'en-us'
+title = 'Laychiva Chhout'
+theme = 'hugo-theme-stack'
+canonifyURLs = true
+
