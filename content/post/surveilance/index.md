@@ -1,7 +1,7 @@
 +++
 author = "Laychiva Chhout"
 title = "មូលធននិយមបែបតាមដាន"
-date = "2024-03-24"
+date = "2024-05-31"
 description = "មូលធននិយមបែបតាមដាន"
 math = "true"
 tags = [
